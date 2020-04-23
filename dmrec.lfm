@@ -151,8 +151,24 @@ object dm: Tdm
     Top = 36
   end
   object PopupMenu1: TPopupMenu
-    Left = 104
-    Top = 53
+    Left = 88
+    Top = 40
+    object mnuKey: TMenuItem
+      Caption = 'Send keypress'
+      Checked = True
+      GroupIndex = 1
+      RadioItem = True
+      OnClick = mnuKeyClick
+    end
+    object mnuCommand: TMenuItem
+      Caption = 'Call command'
+      GroupIndex = 1
+      RadioItem = True
+      OnClick = mnuKeyClick
+    end
+    object N1: TMenuItem
+      Caption = '-'
+    end
     object mnuQuit: TMenuItem
       Caption = 'Quit'
       OnClick = mnuQuitClick

@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Release"/>
+    <Units>
+      <Unit>
+        <Filename Value="headsetcheck.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="3"/>
+        <TopLine Value="12"/>
+        <CursorPos X="3" Y="17"/>
+        <UsageCount Value="26"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="dmrec.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="dm"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="DataModule"/>
+        <IsVisibleTab Value="True"/>
+        <CursorPos X="58" Y="196"/>
+        <UsageCount Value="26"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="unit1.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="Form1"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="Unit1"/>
+        <EditorIndex Value="4"/>
+        <TopLine Value="11"/>
+        <CursorPos X="121" Y="25"/>
+        <UsageCount Value="26"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:\ex-d\lazarus\components\mouseandkeyinput\keyinputintf.pas"/>
+        <UnitName Value="KeyInputIntf"/>
+        <EditorIndex Value="2"/>
+        <TopLine Value="3"/>
+        <CursorPos Y="64"/>
+        <UsageCount Value="12"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:\ex-d\lazarus\lcl\lclintf.pas"/>
+        <UnitName Value="LCLIntf"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="174"/>
+        <CursorPos X="6" Y="201"/>
+        <UsageCount Value="10"/>
+        <Loaded Value="True"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="29">
+      <Position>
+        <Filename Value="dmrec.pas"/>
+        <Caret Line="186" TopLine="162"/>
+      </Position>
+      <Position>
+        <Filename Value="dmrec.pas"/>
+        <Caret Line="187" TopLine="162"/>
+      </Position>
+      <Position>
+        <Filename Value="dmrec.pas"/>
+        <Caret Line="189" TopLine="162"/>
+      </Position>
+      <Position>
+        <Filename Value="dmrec.pas"/>
+        <Caret Line="190" TopLine="146"/>
+      </Position>
+      <Position>
+        <Filename Value="dmrec.pas"/>
+        <Caret Line="186" TopLine="162"/>
+      </Position>
+      <Position>
+        <Filename Value="dmrec.pas"/>
+        <Caret Line="187" TopLine="162"/>
+      </Position>
+      <Position>
+        <Filename Value="dmrec.pas"/>
+        <Caret Line="189" TopLine="162"/>
+      </Position>
+      <Position>
+        <Filename Value="dmrec.pas"/>
+        <Caret Line="186" TopLine="162"/>
+      </Position>
+      <Position>
+        <Filename Value="dmrec.pas"/>
+        <Caret Line="187" TopLine="162"/>
+      </Position>
+      <Position>
+        <Filename Value="dmrec.pas"/>
+        <Caret Line="189" TopLine="162"/>
+      </Position>
+      <Position>
+        <Filename Value="dmrec.pas"/>
+        <Caret Line="170" Column="64" TopLine="147"/>
+      </Position>
+      <Position>
+        <Filename Value="dmrec.pas"/>
+        <Caret Line="176" Column="90" TopLine="153"/>
+      </Position>
+      <Position>
+        <Filename Value="dmrec.pas"/>
+        <Caret Line="192" TopLine="168"/>
+      </Position>
+      <Position>
+        <Filename Value="dmrec.pas"/>
+        <Caret Line="195" TopLine="168"/>
+      </Position>
+      <Position>
+        <Filename Value="dmrec.pas"/>
+        <Caret Line="182" Column="94" TopLine="168"/>
+      </Position>
+      <Position>
+        <Filename Value="dmrec.pas"/>
+        <Caret Line="192" TopLine="168"/>
+      </Position>
+      <Position>
+        <Filename Value="dmrec.pas"/>
+        <Caret Line="193" TopLine="168"/>
+      </Position>
+      <Position>
+        <Filename Value="C:\ex-d\lazarus\components\mouseandkeyinput\keyinputintf.pas"/>
+        <Caret Line="64" TopLine="48"/>
+      </Position>
+      <Position>
+        <Filename Value="dmrec.pas"/>
+        <Caret Line="198" Column="40" TopLine="179"/>
+      </Position>
+      <Position>
+        <Filename Value="dmrec.pas"/>
+        <Caret Line="193" Column="17" TopLine="177"/>
+      </Position>
+      <Position>
+        <Filename Value="dmrec.pas"/>
+      </Position>
+      <Position>
+        <Filename Value="C:\ex-d\lazarus\lcl\lclintf.pas"/>
+      </Position>
+      <Position>
+        <Filename Value="C:\ex-d\lazarus\lcl\lclintf.pas"/>
+        <Caret Line="201" Column="12" TopLine="174"/>
+      </Position>
+      <Position>
+        <Filename Value="C:\ex-d\lazarus\lcl\lclintf.pas"/>
+        <Caret Line="202" Column="12" TopLine="175"/>
+      </Position>
+      <Position>
+        <Filename Value="C:\ex-d\lazarus\lcl\lclintf.pas"/>
+        <Caret Line="201" Column="8" TopLine="176"/>
+      </Position>
+      <Position>
+        <Filename Value="C:\ex-d\lazarus\lcl\lclintf.pas"/>
+        <Caret Line="202" Column="12" TopLine="176"/>
+      </Position>
+      <Position>
+        <Filename Value="C:\ex-d\lazarus\lcl\lclintf.pas"/>
+      </Position>
+      <Position>
+        <Filename Value="C:\ex-d\lazarus\lcl\lclintf.pas"/>
+        <Caret Line="201" Column="12" TopLine="174"/>
+      </Position>
+      <Position>
+        <Filename Value="C:\ex-d\lazarus\lcl\lclintf.pas"/>
+        <Caret Line="107" Column="39" TopLine="100"/>
+      </Position>
+      <Position>
+        <Filename Value="dmrec.pas"/>
+        <Caret Line="67" Column="62" TopLine="56"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>
