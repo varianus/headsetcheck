@@ -21,4 +21,4 @@ To build this application you will need:
 
 ## Dependency
 For audio monitoring this app need a binary build of [portaudio](http://portaudio.com/).
-Recents build for major platforms could be find on the GitHub repository of [UOS](https://github.com/fredvs/uos/releases)
+Recents build for major platforms could be found on the GitHub repository of [UOS](https://github.com/fredvs/uos/tree/main/examples/lib)  
